@@ -1,0 +1,9 @@
+path : alpaca
+train : images/val 
+val : images/val
+
+nc : 1
+
+names:
+  0: alpaca
+

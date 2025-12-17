@@ -1,0 +1,10 @@
+<class_id> <x_center> <y_center> <width> <height>
+50 0.62941 0.417735 0.108835 0.171925
+
+The .pt file is central to working with PyTorch models like YOLO.
+
+.pt is a PyTorch model file extension.
+
+It stores the trained weights and parameters of a neural network model.
+
+It can also include the model architecture in some cases, but often it just contains weights.
